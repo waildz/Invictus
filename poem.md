@@ -17,7 +17,7 @@ Out of the night that covers me,
      It matters not how strait the gate,
          How charged with punishments the scroll,
      I am the master of my fate:
-         >I am the captain of my soul.
+         *I am the captain of my soul.*
 
 ---William Ernest Henley
 http://www.public-domain-poetry.com/william-ernest-henley/invictus-18399
