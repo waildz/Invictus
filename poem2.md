@@ -34,3 +34,6 @@ How charged with punishments the scroll,
 I am the master of my fate, 
 
 >I am the captain of my soul. 
+
+--William Ernest Henley
+http://www.poetryfoundation.org/poem/182194
